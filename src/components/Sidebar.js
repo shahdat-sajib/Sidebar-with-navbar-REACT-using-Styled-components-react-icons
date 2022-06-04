@@ -55,7 +55,7 @@ const Sidebar = () => {
                     <NavIcon to='#'>
                         <FaIcons.FaBars onClick={showSidebar} />
                         <navLogo >
-                            <img style={{ width: "20%", marginLeft: "200px" }} src={logo} alt="LOGO" />
+                            <img style={{ width: "32%", marginLeft: "9%", marginTop: "2%" }} src={logo} alt="LOGO" />
                         </navLogo>
                         
                     </NavIcon>
@@ -64,6 +64,7 @@ const Sidebar = () => {
                     <SidebarWrap>
                         <NavIcon to='#'>
                             <AiIcons.AiOutlineClose onClick={showSidebar} />
+                            <img style={{ width: "35%", marginLeft: "10%" }} src={logo} alt="LOGO" />
                         </NavIcon>
                         {SidebarData.map((item, index) => {
                             return <SubMenu item={item} key={index} />;
