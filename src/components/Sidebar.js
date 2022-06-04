@@ -34,7 +34,7 @@ const SidebarNav = styled.nav`
   position: fixed;
   top: 0;
   left: ${({ sidebar }) => (sidebar ? '0' : '-100%')};
-  transition: 350ms;
+  transition: 0ms;
   z-index: 10;
 `;
 
@@ -55,7 +55,7 @@ const Sidebar = () => {
                     <NavIcon to='#'>
                         <FaIcons.FaBars onClick={showSidebar} />
                         <navLogo >
-                            <img style={{ width: "32%", marginLeft: "9%", marginTop: "2%" }} src={logo} alt="LOGO" />
+                            <img style={{ width: "32%", marginLeft: "9%", marginTop: "2.5%" }} src={logo} alt="LOGO" />
                         </navLogo>
                         
                     </NavIcon>
