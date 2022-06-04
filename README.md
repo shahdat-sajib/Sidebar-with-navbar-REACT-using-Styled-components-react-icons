@@ -4,10 +4,13 @@
 
 Webview:
 .
-![Screenshot (12)](https://user-images.githubusercontent.com/59218362/171950840-0fe45e65-780d-4f7b-b540-40bc66102c21.png)
+![Screenshot_2022-06-05_013212-removebg-preview](https://user-images.githubusercontent.com/59218362/172023044-b2947db9-6cda-4535-bf6f-ac0994e4547a.png)
+
 
 Mobile View:
 .
-![Screenshot 2022-06-04 203401](https://user-images.githubusercontent.com/59218362/172007115-7b2b57b2-866b-4e17-a483-b81039f7644e.png)
+![Screenshot_2022-06-05_013120-removebg-preview](https://user-images.githubusercontent.com/59218362/172023050-2fc95e97-b7fe-4c99-bbe2-04039287eb8c.png)
+
 .
-![Screenshot 2022-06-04 203439](https://user-images.githubusercontent.com/59218362/172007125-3c32e977-a073-4c91-965f-29a5b7601b73.png)
+
+![Screenshot_2022-06-05_013058-removebg-preview](https://user-images.githubusercontent.com/59218362/172023058-c1adb826-12e0-441d-b025-24ec402f947c.png)
